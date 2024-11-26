@@ -61,4 +61,9 @@
 *Kai Yu*\
 [MICCAI,2024]<br>
 [[Paper](https://papers.miccai.org/miccai-2024/paper/1942_paper.pdf)] [[Github](https://github.com/yukkai/UrFound)]\
+**VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge**\
+*Zihan Li*\
+[2024]<br>
+[[Paper](https://arxiv.org/abs/2408.02865)] [[Github](https://github.com/HUANGLIZI/VisionUnite.git)] \
+
 
