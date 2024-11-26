@@ -64,6 +64,11 @@
 **VisionUnite: A Vision-Language Foundation Model for Ophthalmology Enhanced with Clinical Knowledge**\
 *Zihan Li*\
 [2024]<br>
-[[Paper](https://arxiv.org/abs/2408.02865)] [[Github](https://github.com/HUANGLIZI/VisionUnite.git)] \
+[[Paper](https://arxiv.org/abs/2408.02865)] [[Github](https://github.com/HUANGLIZI/VisionUnite.git)]\
+**RET-CLIP: A Retinal Image Foundation Model Pre-trained with Clinical Diagnostic Reports**\
+*Jiawei Du*\
+[MICCAI, 2024]<br>
+[[Paper](https://www.arxiv.org/abs/2405.14137)] [[Github](https://github.com/sStonemason/RET-CLIP)]\
+
 
 
