@@ -49,6 +49,10 @@
 *Julio Silva-Rodríguez*\
 [2024]<br>
 [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841524002822)] [[Github](https://github.com/jusiro/FLAIR)]\
+**VisionFM: A Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence**\
+*Jianing Qiu, Ningli Wang*\
+[2024]<br>
+[[Paper](https://arxiv.org/abs/2310.04992)] [[Github](https://github.com/ABILab-CUHK/VisionFM)]\
 **ViLReF: An Expert Knowledge Enabled Vision-Language Retinal Foundation Model**\
 *Shengzhu Yang*\
 [2024]<br>
