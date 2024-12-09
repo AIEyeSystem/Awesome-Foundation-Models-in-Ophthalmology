@@ -73,6 +73,10 @@
 *Jiawei Du*\
 [MICCAI, 2024]<br>
 [[Paper](https://www.arxiv.org/abs/2405.14137)] [[Github](https://github.com/sStonemason/RET-CLIP)]\
+**Language Enhanced Model for Eye (LEME): An Open-Source Ophthalmology-Specific Large Language Model**\
+*Aidan Gilson*\
+[2024]<br>
+[[Paper](https://arxiv.org/abs/2410.03740) [Github](https://github.com/qingyu-qc/leme_eye_llm)]
 
 
 
